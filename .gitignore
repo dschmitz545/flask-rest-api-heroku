@@ -5,6 +5,9 @@ include
 lib
 share
 
+# Sqllite
+*.db
+
 .vscode/settings.json
 .vscode
 .vscode/
