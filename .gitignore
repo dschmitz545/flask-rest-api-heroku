@@ -6,7 +6,7 @@ lib
 share
 
 # Sqllite
-*.db
+data.db
 
 .vscode/settings.json
 .vscode
